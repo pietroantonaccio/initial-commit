@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar] (https://pietroantonaccio.github.io/nlw-esports/)
+[Clique aqui para acessar (https://pietroantonaccio.github.io/nlw-esports/)]
 
 ## ⚙ Tecnologias
 
